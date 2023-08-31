@@ -28,6 +28,7 @@
     
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
+ <br>
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
@@ -35,21 +36,12 @@
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
        <img src="https://img.shields.io/badge/java-007396?style=for-the-square&logo=java&logoColor=white">
     </div>
-    <!-- Backend -->
-    <p><strong>Backend</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-    </div>
     <!-- Database -->
     <p><strong>Database</strong></p>
     <div>
-        <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+            <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">     
         <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-        <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
-      <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"></a>
+             <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"></a>
     </div>
     <!-- Cloud Server -->
@@ -58,7 +50,7 @@
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
-     <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat- square&logo=Amazon%20DynamoDB&logoColor=white"></a>&nbsp
+     <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat- square&logo=Amazon%20DynamoDB&logoColor=white"></a>
     </div>
     <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
