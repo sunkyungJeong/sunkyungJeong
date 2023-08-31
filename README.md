@@ -12,23 +12,6 @@
 [![sunkyungJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunkyungJeong&include_all_commits=true&show_icons=true&theme=cobalt)](https://github.com/bi-sz/github-readme-stats)
  
 <br>
-
-## 💻 DEV's log 💻
-<div style="display:flex; flex-direction:row;">
-    <a href="[https://bi-sz.github.io/portfolio/](https://github.com/sunkyungJeong)">
-    <img src="https://img.shields.io/badge/Portfolio-FFC0CB?style=for-the-badge"> 
-    </a>
-    <a href="https://velog.io/@bi-sz">
-        <img src="https://img.shields.io/badge/Velog-20c997?style=for-the-badge&logo=Vimeo&logoColor=white"> 
-    </a>
-    <a href="https://li-yo.tistory.com">
-        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
-    </a>
-  
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=bi-sz)](https://velog.io/@bi-sz)
-[![Tistory's Card](https://github-readme-tistory-card.vercel.app/api?name=li-yo&theme=default)](https://li-yo.tistory.com/)
-</div><br>
-
  
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
@@ -78,6 +61,11 @@
         <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
         <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=amazon aws&logoColor=white"> 
+     <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat- square&logo=Amazon%20DynamoDB&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"></a>&nbsp
+<img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white"></a>&nbsp
+<img src="https://img.shields.io/badge/mongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"></a>&nbsp
     </div>
     <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
