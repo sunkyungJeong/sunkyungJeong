@@ -29,11 +29,10 @@
 ## 🔨 Once I've used 🔨
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
  <br>
-    <!-- Frontend -->
+    <!-- Language -->
     <p><strong>Frontend</strong></p>
     <div>
-             <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black">
+       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
        <img src="https://img.shields.io/badge/java-007396?style=for-the-square&logo=java&logoColor=white">
     </div>
     <!-- Database -->
